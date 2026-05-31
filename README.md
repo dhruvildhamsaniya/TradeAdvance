@@ -52,4 +52,4 @@ View the PowerPoint overview here:
 
 ---
 
-> ⚠️ This project is for educational/demo purposes. Live trading involves risks.
+> ⚠️ This project is for educational/demo purposes. Live trading involves risks. Thank you !
